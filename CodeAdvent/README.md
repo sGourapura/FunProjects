@@ -1,0 +1,1 @@
+This folder contains my attempts at solving the daily problems from the Advent of Code: adventofcode.com/2020/
