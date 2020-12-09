@@ -66,8 +66,8 @@ for l in range(len(Lines)): #len(Lines)
 	b =  secondL == letter
 	if (a and not b) or (not a and b):
 		validCount += 1
-		print(l, [firstN, secondN], letter, firstL, secondL, "here")
-	else:
-		print(l, [firstN, secondN], letter, firstL, secondL)
+		#print(l, [firstN, secondN], letter, firstL, secondL, "here")
+	#else:
+		#Sprint(l, [firstN, secondN], letter, firstL, secondL)
 
 print("part 2:", validCount)
